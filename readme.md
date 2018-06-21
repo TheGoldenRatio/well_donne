@@ -1,9 +1,9 @@
 # Well Donne - the web's best database of John Donne's poetry
 
-### -  Find all the poetry and major works written by John Donne
-### - search and sort function
-### - filter poetry by: year, type of poem, number of lines, subject matter.
-### - Natural language analysis and insights for each poem
+-  Find all the poetry and major works written by John Donne
+- search and sort function
+- filter poetry by: year, type of poem, number of lines, subject matter.
+- Natural language analysis and insights for each poem
 
 ## John Donne
 
